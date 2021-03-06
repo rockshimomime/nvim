@@ -10,6 +10,7 @@ Plug 'nathanaelkane/vim-indent-guides'
 Plug 'plasticboy/vim-markdown'
 Plug 'pangloss/vim-javascript'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
+Plug 'stephpy/vim-yaml'
 
 Plug 'davidhalter/jedi-vim'
 Plug 'nvie/vim-flake8'
